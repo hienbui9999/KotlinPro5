@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.casper.sdk.rpc.getstateroothash.GetStateRootHashTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-26T03:40:13" hostname="Hiens-MacBook-Pro.local" time="1.94">
+  <properties/>
+  <testcase name="getStateRootHash()" classname="com.casper.sdk.rpc.getstateroothash.GetStateRootHashTest" time="1.94"/>
+  <system-out><![CDATA[Hello world!
+{"id":"1","method":"chain_get_state_root_hash","jsonrpc":"2.0","params":"[]"}
+{"jsonrpc":"2.0","id":"1","result":{"api_version":"1.4.5","state_root_hash":"800ba09c62fa679a0edcedf57c2dabd8a35f22596d9d12cd4b1959acc58015a1"}}
+Response is:{"jsonrpc":"2.0","id":"1","result":{"api_version":"1.4.5","state_root_hash":"800ba09c62fa679a0edcedf57c2dabd8a35f22596d9d12cd4b1959acc58015a1"}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

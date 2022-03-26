@@ -1,0 +1,4 @@
+Hello world!
+N{"id":"1","method":"chain_get_state_root_hash","jsonrpc":"2.0","params":"[]"}
+ë{"jsonrpc":"2.0","id":"1","result":{"api_version":"1.4.5","state_root_hash":"800ba09c62fa679a0edcedf57c2dabd8a35f22596d9d12cd4b1959acc58015a1"}}
+ùResponse is:{"jsonrpc":"2.0","id":"1","result":{"api_version":"1.4.5","state_root_hash":"800ba09c62fa679a0edcedf57c2dabd8a35f22596d9d12cd4b1959acc58015a1"}}
